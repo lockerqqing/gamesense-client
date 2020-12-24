@@ -25,7 +25,7 @@ Most notable features:
 * GL_DONT_CARE (Viewmodel Transformations)
 * NekoPvP (First commit, Item FOV)
 * TechAle (AutoAnvil)
-* PineappleGod
+* PineappleGod 
 #### Credits
 Check specific class files for full credits.
 This client started out based off of IUDevman GameSense, which in turn was based off of Osiris. 
